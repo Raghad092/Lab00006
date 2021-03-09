@@ -2,7 +2,8 @@
 title: "Lab 6 - La Quinta is Spanish for next to Denny's, Pt. 1"
 subtitle: "Visualizing spatial data"
 author: https://datasciencebox.org/
-output: pdf_document
+output: Lab6-Documentation.knit.md
+
 ---
 
 
